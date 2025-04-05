@@ -1,0 +1,12 @@
+touch dataset/.gitkeep
+touch models/.gitkeep
+touch src/detection/.gitkeep
+touch src/tracking/.gitkeep
+touch src/preprocessing/.gitkeep
+touch src/integration/.gitkeep
+touch src/mobile_interface/.gitkeep
+touch notebooks/.gitkeep
+touch configs/.gitkeep
+touch logs/.gitkeep
+touch tests/.gitkeep
+touch docs/.gitkeep
